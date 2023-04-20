@@ -1,0 +1,6 @@
+- **Sintaxis y semántica de los lenguajes**
+- Curso: k2054
+- Año de cursada: 2023
+- Legajo:01510927
+- Apellido: Jaime
+- Nombre: Bruno
