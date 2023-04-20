@@ -1,0 +1,1 @@
+compilador instalado: mingw32-base
